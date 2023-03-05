@@ -1,2 +1,2 @@
 # way2code
-learning C++，Python, database And algorithms
+**此代码仓库作记录学习过程文档及后期查阅回顾之用**
